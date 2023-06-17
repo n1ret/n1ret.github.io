@@ -1,8 +1,15 @@
 div.title {
-    background-color: #609966;
     position: absolute;
     width: 100vw;
     height: 100vh;
+
+    background-color: #609966;
+}
+
+img.avatar {
+    position: absolute;
+    top: 10%;
+    left: 10%;
 }
 
 body {
