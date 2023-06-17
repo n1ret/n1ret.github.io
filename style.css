@@ -8,8 +8,10 @@ div.title {
 
 img.avatar {
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 10vw;
+    left: 10vw;
+
+    border-radius: 50%;
 }
 
 body {
