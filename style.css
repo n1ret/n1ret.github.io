@@ -1,4 +1,6 @@
 div.title {
     background-color: 609966;
-    width: 100vh;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
 }
