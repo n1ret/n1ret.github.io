@@ -1,24 +1,26 @@
-div.title {
-    position: absolute;
+div.bio {
     width: 100vw;
     height: 100vh;
 
     background-color: #609966;
 }
 
-img.avatar {
-    position: absolute;
+div.title {
+    position: relative;
     top: 10vw;
     left: 10vw;
+}
 
+div.title > img {
     border-radius: 50%;
 }
 
 div.title > h2{
     position: relative;
-    top: 10vw;
+    bottom: 0;
     left: 10vw;
 
+    color: white;
     font-family: "Roboto", sans-serif;
 }
 
