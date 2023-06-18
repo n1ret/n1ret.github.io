@@ -9,9 +9,12 @@ div.title {
     position: relative;
     top: 10vw;
     left: 10vw;
+    height: 15vh;
 }
 
 div.title > img {
+    height: 15vh;
+
     border-radius: 50%;
 }
 
